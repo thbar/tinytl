@@ -21,6 +21,9 @@ I'm just putting rThis is mostly a "free thinking" labs - there is no certainty 
 * should largely use the syntax and transforms coming from aw-etl
 * should support pre-post-load screens
 
+* should run its tests in production
+  * the rational behind this is that the etl can't be tested against all the databases and specific configurations (think: collations, encodings, os, bulk load behaviour), so at least one run should be done in production to check everything works as expected
+
 * could support multi-core
 * could support multi-agent
 
