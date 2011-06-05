@@ -2,7 +2,7 @@ An experimental fork of activewarehouse-etl (work in progress).
 
 [![](http://travis-ci.org/thbar/tinytl.png)](http://travis-ci.org/#!/thbar/tinytl)
 
-I'm just putting rThis is mostly a "free thinking" labs - there is no certainty I will keep working on this.
+Mostly a "free thinking" experiment. There is no certainty I will keep working on this.
 
 ## Ideal goals
 
