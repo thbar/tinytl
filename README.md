@@ -24,6 +24,8 @@ Mostly a "free thinking" experiment. There is no certainty I will keep working o
 * should run its tests in production
   * the rational behind this is that the etl can't be tested against all the databases and specific configurations (think: collations, encodings, os, bulk load behaviour), so at least one run should be done in production to check everything works as expected
 
+* should support user-defined profiling
+
 * could support multi-core
 * could support multi-agent
 
